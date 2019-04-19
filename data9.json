@@ -1,0 +1,71 @@
+{
+ "date": "2019-10-10",
+  "time": "0700",
+  "condition": [
+      {"level": "1",
+       "location": {
+            "x": "1",
+            "y": "1"
+        },
+        "status":"occupied",
+        "car":{
+            "license": "USA001",
+            "color": "blue",
+            "size": "motorcycle"
+        },
+        "oversize": "N"
+       },
+       {"level": "1",
+       "location": {
+        "x": "1",
+        "y": "2"
+        },
+        "status":"occupied",
+        "car":{
+            "license": "USA002",
+            "color": "blue",
+            "size":"motorcycle"
+        },
+        "oversize": "N"
+       },
+       {"level": "1",
+       "location": {
+            "x": "1",
+            "y": "3"
+        },
+        "status":"occupied",
+        "car":{
+            "license": "USA003",
+            "color": "blue",
+            "size":"car"
+        },
+        "oversize": "N"
+       },
+       {"level": "1",
+       "location": {
+            "x": "1",
+            "y": "4"
+        },
+        "status":"occupied",
+        "car":{
+            "license": "USA004",
+            "color": "blue",
+            "size":"car"
+           },
+        "oversize": "N"
+       },
+       {"level": "1",
+       "location": {
+        "x": "1",
+        "y": "2"
+        },
+        "status":"empty",
+        "car":{
+            "license": "",
+            "color": "",
+            "size":""
+            },
+        "oversize": "N"
+       }
+    ]
+ }
